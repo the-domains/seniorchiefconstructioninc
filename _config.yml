@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#D8D8A8'
+    - '#D8D8D8'
     - '#000000'
-    - '#989080'
+    - '#808080'
     - '#000000'
-    - '#E8C888'
+    - '#000000'
   brandStrength: 0.947916
   lightness: 0.79427
   rhythmicContrast: 0.770833
   saturation: 0.791666
 cta: {}
 layout_spectrum: 0.609375
-name: seniorchiefconstruction
+name: seniorchiefconstructioninc
 opengraph: {}
 purpose: {}
 typography_spectrum: 0.924479
